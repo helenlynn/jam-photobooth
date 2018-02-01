@@ -52,15 +52,15 @@ text_es = {
 
 # Welsh - Cymraeg
 text_cy = {
-    'tweet': "#PiParty bwth lluniau",
+    'tweet': "Bwth lluniau #PiParty",
     'photo number': "Llun {} o {}",
-    'press to capture': "Gwasgwch y botwm i'w dal...",
-    'tweeting': "Tweetio...",
-    'tweeted': "Tweetio!",
-    'tweeting with cancel': "Tweetio...\n" "Gwasgwch y botwm i ganslo",
-    'ready': "Yn barod!\n" "Gwasgwch y botwm i ddechrau...",
-    'failed tweet': "Methwyd tweet :(",
-    'not tweeting': "Ddim yn tweetio",
+    'press to capture': "Gwthiwch y botwm i gymryd llun...",
+    'tweeting': "Wrthi'n trydar...",
+    'tweeted': "Wedi'i drydar!",
+    'tweeting with cancel': "Wrthi'n trydar...\n" "Gwthiwch y botwm i ganslo",
+    'ready': "Yn barod!\n" "Gwthiwch y botwm i ddechrau...",
+    'failed tweet': "Methu trydar :(",
+    'not tweeting': "Ddim yn trydar",
 }
 
 language_dicts = {
